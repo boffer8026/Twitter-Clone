@@ -1,28 +1,25 @@
+This is my example application for my resume so if your reading this make sure you hire this guy!
+
 == README
+This README would normally document whatever steps are necessary to get the application up and running.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby version:
+4.2.0
 
-Things you may want to cover:
+System dependencies:
 
-* Ruby version
+Configuration:
 
-* System dependencies
+Database creation:
+https://example-app100.herokuapp.com/ | https://git.heroku.com/example-app100.git
+SSH location: /home/ubuntu/.ssh/id_rsa.pub
 
-* Configuration
+Database initialization
 
-* Database creation
+How to run the test suite
 
-* Database initialization
+Services (job queues, cache servers, search engines, etc.)
 
-* How to run the test suite
+Deployment instructions
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
